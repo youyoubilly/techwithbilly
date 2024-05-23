@@ -1,4 +1,4 @@
-# Hit 1000% Funding & Crafting Quality: Inside Our Plans & More
+# From Development to Your Hands: Behind the Scenes with Openterface
 
 Hi everyone!
 
