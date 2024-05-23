@@ -10,7 +10,7 @@ First things first, we’re absolutely over the moon to announce that we’ve hi
 
 ### Production Planning
 
-We’ve been super busy on the production front already! This week, we visited the tech hub of Shenzhen and had the chance to tour one of the top tech manufacturers. These folks work with big names like Meta, ABB, and Blaupunkt, and it was incredible to see their advanced production lines and quality control machinery in action. I wish I could share more photos, but here’s one with a bit of digital mosaic for confidentiality.
+We’ve been super busy on the production front already! This week, we visited the tech-forward city of Shenzhen and had the chance to tour one of the top tech manufacturers. These folks work with big names like Meta, ABB, and Blaupunkt, and it was incredible to see their advanced production lines and quality control machinery in action. I wish I could share more photos, but here’s one with a bit of digital mosaic for confidentiality.
 
 ![txa-team-visit-sz-factory-1](media-u3/txa-team-visit-sz-factory-1.webp)
 (We were discussing QC with the production line manager.)
