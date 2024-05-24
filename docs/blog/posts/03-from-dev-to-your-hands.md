@@ -1,3 +1,10 @@
+---
+date: 2024-01-15
+categories:
+  - Openterface
+---
+
+
 # From Development to Your Hands: Behind the Scenes
 
 Hi everyone!

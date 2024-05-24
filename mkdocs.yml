@@ -111,7 +111,8 @@ plugins:
 
 nav:
   - Home: index.md
-  - Drafts:
-    - Openterface:
-      - Weekly Update 3: openterface/update-3.md
-  - About: about.md
+  - Work:
+    - blog/index.md
+    # - Openterface:
+    #   - Weekly Update 3: openterface/update-3.md
+  # - About: about.md
