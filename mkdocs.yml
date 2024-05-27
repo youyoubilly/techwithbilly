@@ -43,6 +43,7 @@ theme:
    - content.tabs
    - content.code.annotation
    - content.code.copy
+   - content.tabs.link
   palette:
     primary: grey
     # accent: custom
@@ -74,6 +75,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
