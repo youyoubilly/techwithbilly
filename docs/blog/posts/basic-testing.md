@@ -16,8 +16,8 @@ categories:
 
     <div class="annotate" markdown>
 
-    - **Movement latency**: Ensure smooth and responsive control.
-    - **Mouse buttons**: Test left, right, and middle mouse buttons; Click & drag.
+    - **Movement Latency**: Ensure smooth and responsive control.
+    - **Mouse Buttons**: Test left, right, and middle mouse buttons; click & drag.
     - **Scrolling**: Evaluate scrolling speed and direction.
     - **Accuracy** of mouse position mapping (1)
 
@@ -29,8 +29,8 @@ categories:
 
     <div class="annotate" markdown>
 
-    - **Movement latency**: Ensure smooth and responsive control.
-    - **Mouse buttons**: Test left, right, and middle mouse buttons; Click & drag.
+    - **Movement Latency**: Ensure smooth and responsive control.
+    - **Mouse Buttons**: Test left, right, and middle mouse buttons; click & drag.
     - **Scrolling**: Evaluate scrolling speed and direction.
     - **Sensitivity** of mouse movement (1)
 
@@ -40,15 +40,24 @@ categories:
 
 
 ## Keyboard ⌨️
-- Keyboard mapping test, especially for various special symbols
-- Typing responsive test
-- Multi-key press test
-- Function key test
-- Testing with different country keyboard layouts to ensure consistent pairing
+
+<div class="annotate" markdown>
+
+- **Typing Responsiveness**: Ensure it meets intuitive expectations.
+- **Full Keyboard Mapping**: Especially for various special symbols.
+- **Modifiers**: Keys like `Ctrl`, `Shift`, `Alt` and `Cmd`, or `Win`.
+- **Key Combinations**: Supports up to 8 modifier keys and 6 additional keys pressed simultaneously.
+- **Media & ACPI Keys**: Keys like `Volume-`, `Volume+`, `Mute`, `Wake-up`, `Sleep` and `Power`.
+- **Keyboard Layouts**: Ensure consistent pairing for various layouts. (1)
+
+</div>
+
+1. ⌨️ 🌏 Keyboard layouts vary globally across regions and languages, with popular types like QWERTY, AZERTY, QWERTZ, and Dvorak.
 
 !!! tip
 
-    You can utilize online keyboard testing tool on both the host and target computers to verify whether their keystrokes are synchronized.
+    - **Keyboard Tester**: You can utilize an online keyboard testing tool on both the host and target computers to verify whether their keystrokes are synchronized.
+    - **CH9329 Chip**: Check [the details](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware/tree/main/CH9329) to understand the limits of keyboard/mouse control in the Openterface Mini-KVM.
 
 ## Text Transfer 📝
 - Text Transfer Functionality: Verify that the host application can successfully transfer text from the host computer to the target device using [ASCII codes](https://theasciicode.com.ar/).
